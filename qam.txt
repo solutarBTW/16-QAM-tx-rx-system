@@ -1,0 +1,9 @@
+Steps to create a 16-QAM TX RX :
+
+1- modulation 
+2- conversion to symbols
+3- spectrum 
+4- Error bit Rate
+5- Apply RCC filter
+6- convert back the symbols to bits 
+7- Demodulation
